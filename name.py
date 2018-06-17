@@ -1,0 +1,6 @@
+name=input("Enter your name.")
+surname= input("Enter your surname.")
+father=input("Enter your father's name.")
+mother=input("Enter your mother's name.")
+print(surname,name,"&",father,"@",mother)
+print(surname,">",name,"@",father,"#",mother,"%")
